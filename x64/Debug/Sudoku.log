@@ -1,0 +1,18 @@
+﻿  Board.cpp
+  Console.cpp
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Board.cpp(80,17): warning C4267: =: преобразование из "size_t" в "_Ty1"; возможна потеря данных
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Board.cpp(80,17): warning C4267:         with
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Board.cpp(80,17): warning C4267:         [
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Board.cpp(80,17): warning C4267:             _Ty1=int
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Board.cpp(80,17): warning C4267:         ]
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Board.cpp(81,18): warning C4267: =: преобразование из "size_t" в "_Ty2"; возможна потеря данных
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Board.cpp(81,18): warning C4267:         with
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Board.cpp(81,18): warning C4267:         [
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Board.cpp(81,18): warning C4267:             _Ty2=int
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Board.cpp(81,18): warning C4267:         ]
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Console.cpp(46,26): warning C4309: return: усечение константного значения
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Console.cpp(50,26): warning C4309: return: усечение константного значения
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Console.cpp(54,26): warning C4309: return: усечение константного значения
+  Создание кода...
+C:\Users\miha-\source\repos\Sudoku_\Sudoku\Console.cpp(57,1): warning C4715: Console::GetShablon2: значение возвращается не при всех путях выполнения
+  Sudoku.vcxproj -> C:\Users\miha-\source\repos\Sudoku_\Sudoku\x64\Debug\Sudoku.exe
